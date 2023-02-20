@@ -83,7 +83,7 @@
         "channels":[
           {
             "name":"redirect",
-            "urls":["proxy://ghproxy.com/https://raw.githubusercontent.com/A1058528421/TVBox/main/tvbox/tv.json"]
+            "urls":["proxy://https://ghproxy.com/https://raw.githubusercontent.com/A1058528421/TVBox/main/tvbox/tv.json"]
           }
         ]
       }
