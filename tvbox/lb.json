@@ -1,5 +1,5 @@
 {
-    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/A1058528421/Files/master/custom_spider.jar;md5;5c45cf785ba7dd7ca027b402ff645552",
+    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/A1058528421/TVBox/main/tvbox/lb.jar;md5;5c45cf785ba7dd7ca027b402ff645552",
     "sites":[
       {
         "key":"Tencent",
