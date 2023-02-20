@@ -83,7 +83,7 @@
         "channels":[
           {
             "name":"redirect",
-            "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vQTEwNTg1Mjg0MjEvVFZCb3gvbWFpbi90dmJveC90di5qc29u"]
+            "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vQTEwNTg1Mjg0MjEvVFZCb3gvbWFpbi90dmJveC90di50eHQ="]
           }
         ]
       }
